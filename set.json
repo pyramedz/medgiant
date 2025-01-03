@@ -2,5 +2,6 @@
 
     "ver":"1.0.1",
     "ok_ver":"1.0.0",
-    "ds_ver":"1"
+    "ds_ver":"1",
+    "mindmaps":"https://github.com/pyramedz/medgiant/raw/refs/heads/main/merged_texts.json"
 }
