@@ -2,7 +2,7 @@
 
     "ver":"1.0.30",
     "ok_ver":"1.0.30" ,
-    "ds_ver":"1",
+    "ds_ver":"2",
     "mindmaps":"https://github.com/pyramedz/medgiant/raw/refs/heads/main/merged_texts.json",
     "ds":"https://raw.githubusercontent.com/pyramedz/medgiant/main/ds/ds_1.json"
 }
