@@ -3,11 +3,12 @@
     "ver":"1.0.32",
     "ok_ver":"1.0.31" ,
     "mindmaps":"https://github.com/pyramedz/medgiant/raw/refs/heads/main/merged_texts.json",
-    "ds_ver":"120",
-    "ds":"https://raw.githubusercontent.com/pyramedz/medgiant/main/ds/ds_120.json",
+    "ds_ver":"121",
+    "ds":"https://raw.githubusercontent.com/pyramedz/medgiant/main/ds/ds_121.json",
     "sds_ver":"2",
     "sds":"https://raw.githubusercontent.com/pyramedz/medgiant/main/sds/ds_2.json"
 }
+
 
 
 
