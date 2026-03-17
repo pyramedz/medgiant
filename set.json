@@ -1,5 +1,5 @@
 {
-      "ver": "1.0.32",
+      "ver": "1.0.36",
       "ok_ver": "1.0.36",
       "mindmaps": "https://github.com/pyramedz/medgiant/raw/refs/heads/main/merged_texts.json",
       "interactions": "https://github.com/pyramedz/medgiantinteractions/raw/refs/heads/main/drug_interactions.json",
